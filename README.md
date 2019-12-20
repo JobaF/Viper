@@ -16,7 +16,7 @@
 > "You have been provided with a full dataset of bike sharing rentals. Select the city and year you have been allocated and clean your dataset for use in later stages of your project. To obtain Weather data access the open data portal of the German Weather Service (DWD)."
 
 2. Descriptive Analytics:
-- Find patterns in seasonal (spring,summer,autumn,winter), weekly (monday-sunday) and daily level (0:00-23:59)
+- Find patterns in seasonal (spring, summer, autumn, winter), weekly (monday-sunday) and daily level (0:00-23:59)
   - start times
   - trip length
   - start and end location
